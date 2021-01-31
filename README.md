@@ -18,3 +18,11 @@ In searchAgents.py, functions implemented are:
 - cornersHeuristic
 - foodHeuristic
 - closestDotSearchAgent
+
+### Project 2: Multi-Agent Search Pt.1
+Search project required implementation of an evaluation function and minimax implemented in:
+1. multiAgents.py
+
+In multiAgents.py, functions implemented are:
+- ReflexAgent's evaluationFuntion
+- Minimax's getAction and minimax 
