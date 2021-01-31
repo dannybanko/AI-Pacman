@@ -2,7 +2,7 @@
 
 UWB-Berkeley Quarter-long AI Pacman Project
 
-### Project 1: Search and Search Agents
+## Project 1: Search and Search Agents
 Search project required search and heuristic functions to be implemented in the following files:
 1. search.py
 2. searchAgents.py
@@ -19,7 +19,7 @@ In searchAgents.py, functions implemented are:
 - foodHeuristic
 - closestDotSearchAgent
 
-### Project 2: Multi-Agent Search Pt.1
+## Project 2: Multi-Agent Search Pt.1
 Search project required implementation of an evaluation function and minimax implemented in:
 1. multiAgents.py
 
