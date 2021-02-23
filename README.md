@@ -26,3 +26,12 @@ Search project required implementation of an evaluation function and minimax imp
 In multiAgents.py, functions implemented are:
 - ReflexAgent's evaluationFuntion
 - Minimax's getAction and minimax 
+
+## Project 2: Multi-Agent Search Pt.2
+Search project required implementation of alpha-beta pruning, expectimax search and a better 
+evaluation function:
+
+In multiAgents.py, functions implemented are:
+- AlphaBetaAgent's getAction and prunedMinimax (alpha-beta)
+- ExpectimaxAgent's getAction and expectimax 
+- betterEvaluationFunction
