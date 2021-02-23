@@ -29,7 +29,8 @@ In multiAgents.py, functions implemented are:
 
 ## Project 2: Multi-Agent Search Pt.2
 Search project required implementation of alpha-beta pruning, expectimax search and a better 
-evaluation function:
+evaluation function in:
+1. multiAgents.py
 
 In multiAgents.py, functions implemented are:
 - AlphaBetaAgent's getAction and prunedMinimax (alpha-beta)
